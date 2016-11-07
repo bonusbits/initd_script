@@ -26,5 +26,4 @@ This script is a starting point for those packages that don't come with initiali
   ```# endregion Edit These Variables```
 5. Add to Chkconfig<br>
   ```sudo chkconfig --add myserviced```
-
 ---
